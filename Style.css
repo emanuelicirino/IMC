@@ -1,0 +1,46 @@
+h1 {
+margin-left: 20px;
+text-align: center;
+
+}
+.container{
+border: 5px solid black;
+box-shadow: 30px 0px 100px;
+padding: 30px;
+margin: 20px;
+height: 380px;
+background: #E1F5FE;
+
+
+}
+.container-calculadora-peso{
+margin-bottom: 16px;
+widht: 100%;
+background-color: #FFEBEE; 
+}
+.container-calculadora-altura{
+margin-bottom: 16px;
+widht: 100%;
+background-color: #FFEBEE;
+}
+.input-number{
+height: 30px;
+width: 80px;
+margin-left: 20px;
+font-size: 16px;
+}
+.botao-calcular{
+font-size: 18px;
+background-color: #283593;
+width: 100%;
+color: #F5F5F5;
+cursor: pointer;
+border: none;
+padding: 8px;
+}
+.resultado{
+text-align: center;
+fonte-size: 20px; 
+
+
+}
